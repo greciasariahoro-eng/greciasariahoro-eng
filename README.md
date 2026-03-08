@@ -1,4 +1,4 @@
-![Gatito] http://127.0.0.1:5500/pinkherat.html 
+
 <!--
 **greciasariahoro-eng/greciasariahoro-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
