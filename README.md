@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="hacker_animated.gif" width="400"/>
-</p>
-```
 
----
-
-## 4. Estructura del repo
-
-Debe quedar así:
-```
 tu-usuario/
 ├── README.md
 └── hacker_animated.gif
