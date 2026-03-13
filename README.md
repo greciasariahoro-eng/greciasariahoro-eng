@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="download.gif" width="100%">
+</p>
 
-tu-usuario/
-├── README.md
-└── hacker_animated.gif
 <!--
 **greciasariahoro-eng/greciasariahoro-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
